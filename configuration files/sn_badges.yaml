@@ -9,7 +9,7 @@
 #--- Gary location badge --------------------
     gary_badge:  
       friendly_name: Gary
-      value_template: '{{state.gary_iphone_badge.states'
+      value_template: '{{state.gary_iphone_badge.states}}'
       entity_picture_template: /local/gary.png
       
 #--- Garage Door Open/Closed --------------------
